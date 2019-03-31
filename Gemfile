@@ -9,7 +9,8 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 3.8.5"
-
+gem 'jekyll-sitemap'
+gem 'jekyll-paginate'
 gem "minima"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
