@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Japan Infrastructure"
-categories: travel sabatical japan
+categories: travel sabbatical japan
 ---
 
 Everytime I visit Japan, I'm always envious of how great their public infrastructure is, and disappointed by New York's so called "greatest subway system in America."

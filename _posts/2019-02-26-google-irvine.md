@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Google in Every City"
-categories: travel sabatical irvine
+categories: travel sabbatical irvine
 ---
 
 Lena had a week of training in Irvine, CA, so I decided to stop by there after Japan to meet up with her to fully take advantage of her free hotel room, rental car, and per diem. It was great to be back in a city where English was commonly spoken, and having the freedom of a car to go wherever I pleased.

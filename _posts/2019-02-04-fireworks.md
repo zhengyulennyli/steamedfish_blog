@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Fireworks
-categories: travel sabatical china
+categories: travel sabbatical china
 ---
 
 Fireworks are a tradition for new years around the world, but unfortunately, it's illegal to launch fireworks in Chinese cities, so instead we go to the countryside where we can do whatever the fuck we want. No really, these people just throw trash out on the sidewalk and someone will come clean it up later. I've also seen some families burning their trash in a bonfire. For us, it means we can launch fireworks in our front yard on New Years.

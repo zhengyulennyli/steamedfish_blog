@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bachelor's in Montreal"
-categories: travel sabatical montreal
+categories: travel sabbatical montreal
 ---
 
 My old coworker, John, invited me to my second bachelor's party. It would be my second time in Montreal and first time experiencing the heterosexual night life in the city. My first time visiting Montreal was for a Gay volleyball tournament, so I experienced the opposite side of the spectrum two years prior.

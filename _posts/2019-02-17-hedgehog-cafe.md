@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hedgehog Cafe"
-categories: travel sabatical japan
+categories: travel sabbatical japan
 ---
 
 Japan is well-known for their animal cafes, where you can play with cats, owls, and in our case, hedgehogs. Dru and I visited Harry's Hedgehog Cafe in Shinjuku, where for the price of ~1000 yen you get a free drink and spend 30 minutes playing with a tank full of hedgehogs, which was more than enough time.

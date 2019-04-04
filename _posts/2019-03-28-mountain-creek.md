@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Slush"
-categories: travel sabatical mountain_creek
+categories: travel sabbatical mountain_creek
 ---
 
 Still addicted to working on our terrain park riding, Nam and I planned a mid-week day trip to Mountain Creek in New Jersey, with only three days of rest after our four day adventure in Stowe. Mountain Creek, well known for its terrain parks, is only an hour and a half from Manhattan, and lift tickets for the day were only $30. Now we know why.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rock Climbing in Tokyo"
-categories: travel sabatical japan
+categories: travel sabbatical japan
 ---
 
 Japan produces some famous climbers, and I think it's cool to be able to check out the rock climbing gyms in the cities I visit, so I looked up some places in Tokyo when I arrived. My initial surprise was that there were a ton of options, around 50 in all of Tokyo and at least 10 in Shinjuku, the closest hub to where I was staying. After reading a few reviews, I settled on two in Shinjuku that I wanted to check out.

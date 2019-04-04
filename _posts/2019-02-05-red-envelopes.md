@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Red Envelopes"
-categories: travel sabatical china
+categories: travel sabbatical china
 ---
 
 Before I left for China, my mom mentioned that I needed to prepare red envelopes for my grandparents (1000 RMB each), and all of my aunts and uncles (800 RMB per family). At first I was thinking, wow, that's a lot of money (~10k RMB), and reluctantly agreed. In Chinese New Year culture, red envelopes are typically given to the generations below and above you.

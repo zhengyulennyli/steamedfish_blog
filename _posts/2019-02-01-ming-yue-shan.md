@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "明月山 (Míng Yuè Shān)"
-tags: travel sabatical china
+tags: travel sabbatical china
 ---
 
 On our road trip from Shanghai to Changsha, we stopped by 明月山 for one night to enjoy the natural hot spring spa. The spa experience itself is very similar to those found in New York, except with outdoor facilities to bathe in for an unlimited amount of time with a flat fee (around 100 RMB per person).
