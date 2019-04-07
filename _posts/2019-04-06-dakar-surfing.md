@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Surfs Up in Dakar"
+categories: travel sabbatical senegal
+---
+
+My first three days in Dakar was also my first real hostel experience in the form of a surf camp. We would spend a couple hours during the day out on the waves with surf instructors and hang out at the beach house during the down time. French style breakfast and home made dinner every day is included in the ~$70 per night price. Shout out to [Malika Surf Camp](http://www.surfinsenegal.com/prices/) for having me!
+
+The camp is run by an Italian woman, Marta, and her Senegalese husband, Aziz. They purchased a house near  the beach, and live in an apartment close by with their three kids, three dogs, and three cats. Normally, this house fits up to 20ish campers, but during my stay there were a total of 6, including a volunteer from Russia holding the role of camp counselor. Three of the campers were recovering from food poisoning or some sort of illness, so I ended up getting private/semi-private surf lessons for all three days. I think in general, I'm not a fan of the idea of sharing a room with strangers when staying in a hostel, but this time I paid extra for my own room and still got the benefits of meeting new people from all around the world: a couple from Austria, the Russian camp counselor, a German, and another fellow American from Denver.
+
+The stay itself wasn't perfect. We stayed in a very old clay-style home with rustic furnishings. Mosquitos and flies were the norm, including the outdoor dining table where we ate breakfast and dinner. Luckily there was a bug net around the bed to escape the feasting mosquitos at night. The beach nearby was closed for a religious ceremony during two of the days, so we drove to another area during the day to surf. Normally, we could play beach volleyball with the locals after surfing, but we didn't have that option for those two days.
+
+Surfing is by far the most difficult sport I have ever attempted. The learning curve seems extremely steep compared to other sports where repetition is easily accessible. With surfing, it takes a lot of setup to even find the right conditions to practice standing on the board. After exhausting half my energy fighting the waves to paddle out to sea, struggling to balance sitting upright, and waiting ages for the perfect wave to approach, I often forgot my basic lessons that I learned and practiced on the sand. When you fall down while learning snowboarding, you can just get back up and try again, but surfing is an entirely different story. They say knowing how to snowboard helps with surfing, but not when you struggle to even get up onto the board!
+
+Overall, I'm really glad I had the opportunity, and the concept of adult camps in order to learn a new skill appeals to me. I definitely want to spend at least a week next time learning how to surf, and exploring other water sports such as kite and wind surfing.

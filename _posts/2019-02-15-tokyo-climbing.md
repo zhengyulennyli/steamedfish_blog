@@ -12,6 +12,10 @@ The first gym I went to, Boulcom, was much smaller than I expected. There was on
 
 This facility had three floors, with standard bouldering on the first floor, including a cave-like area. The problems were rated based on colors, without any V-system that we're familiar with in the States. They also had a treadmill climbing wall and a breakroom with desk space and a vending machine. I was able to work on my travel blog while climbing, but unfortunately there was no wifi.
 
+![Climbing]({{ site.baseurl }}/img/2019_sabatical/climbing1.jpg)
+
+![Climbing]({{ site.baseurl }}/img/2019_sabatical/climbing2.jpg)
+
 The second floor had the locker rooms, which are just changing rooms (no showers). Each locker has a key allowing users to lock up their stuff without having to bring their own lock. There was also a yoga room with full length mirrors on two of the walls, perfect for practicing Capoeira when I was tired of climbing.
 
 The third floor had two traverse walls, short in height, with a timer that would count down and beep every 30 seconds. Apparently climbing classes are taught in these facilities, probably for competitive speed climbing.

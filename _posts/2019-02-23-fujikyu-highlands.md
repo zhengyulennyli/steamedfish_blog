@@ -8,6 +8,8 @@ We took a day trip today to Fujikyu Highlands, a famous amusement park next to M
 
 Takabisha: Steepest drop in the world at 121 degrees. A 90 degree drop would be straight down, so 121 degrees means that you're dropping backwords...? You'll have to look at a picture of the drop to understand.
 
+![Fujikyu]({{ site.baseurl }}/img/2019_sabatical/fujikyu.jpg)
+
 Eejanaika: Literally translates to "not good" and is the second "4th dimension roller coaster" ever built. Obviously not actually 4 dimensions, but the 4th dimension simply refers to the 360 degree rotation of the seats, allowing for 14 different inversions.
 
 Do-Dodonpa: Once the world's fastest rollar coaster and still has the highest acceleration. You can feel your vision fading during the launch to reach a max speed of 172 km/h.

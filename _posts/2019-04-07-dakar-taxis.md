@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Taxi Adventures in Dakar"
+categories: travel sabbatical tunisia
+---
+
+Part two of my taxi adventures in Africa, this time in Dakar. Taxis in Dakar worked almost opposite of that in Tunis. I never had trouble hailing down an empty taxi, but no one ran the meter. You had to negotiate with the cab driver after communicating where you wanted to travel to. I had ridden a couple cabs with my surf instructor, and learned that in general you should pay around 2000 CFA (~$3.50) to go across the city.
+
+On the night I left the surf camp to get to Lena's hotel, the religious ceremony nearby was ending, and people were flooding the streets all trying to go home. Calling a taxi near the beach house would be impossible, so I decided to start walking in the direction of the hotel, a single foreigner among a sea of black Muslims. After about 10 minutes of walking, I found an empty taxi, used Google Maps to explain my destination, and negotiated a 2500 CFA rate with my calculator app. The roads in Dakar are mostly small side streets and a few highways. There are no stoplights, so in situations like this, the city becomes a clusterfuck of cars going in opposite directions. These side streets are usually two way, but cars were parked on one side of the road leaving enough room for only one car to pass. The car in front of us was trying to go the opposite direction, and soon enough, lots of cars lined up behind my taxi and the car blocking our way. After a few minutes of wiggling back and forth with little progress, I decided to leave the taxi and keep walking. I have no idea how long it would take for them to sort out that mess, but I wasn't about to find out.
+
+Another 10 minutes or so of walking led me to another empty taxi, who wanted 5000 CFA to take me to my destination. No thanks. Eventually after walking a little more than a mile in total, I got into a taxi that took me to my hotel for 3000 CFA. Finally, home sweet home.
+
+The hotel was guarded, and only let the taxi through when they saw that I had a suitcase in the backseat. I was cautious when paying the driver, shining my cell phone light on the respective bills to make sure he gave me the right amount of change. One of the guards knocked on the window, wondering what was taking so long, so I rushed out of the car, grabbing my backpack and change in one hand, and my cellphone and suitcase in the other. RIP wallet with my credit card, debit card, driver's license, and about $40 cash. Another problem that Uber and other ride sharing companies easily solve.
