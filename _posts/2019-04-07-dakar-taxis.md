@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Taxi Adventures in Dakar"
-categories: travel sabbatical tunisia
+categories: travel sabbatical senegal
 ---
 
 Part two of my taxi adventures in Africa, this time in Dakar. Taxis in Dakar worked almost opposite of that in Tunis. I never had trouble hailing down an empty taxi, but no one ran the meter. You had to negotiate with the cab driver after communicating where you wanted to travel to. I had ridden a couple cabs with my surf instructor, and learned that in general you should pay around 2000 CFA (~$3.50) to go across the city.
@@ -10,4 +10,4 @@ On the night I left the surf camp to get to Lena's hotel, the religious ceremony
 
 Another 10 minutes or so of walking led me to another empty taxi, who wanted 5000 CFA to take me to my destination. No thanks. Eventually after walking a little more than a mile in total, I got into a taxi that took me to my hotel for 3000 CFA. Finally, home sweet home.
 
-The hotel was guarded, and only let the taxi through when they saw that I had a suitcase in the backseat. I was cautious when paying the driver, shining my cell phone light on the respective bills to make sure he gave me the right amount of change. One of the guards knocked on the window, wondering what was taking so long, so I rushed out of the car, grabbing my backpack and change in one hand, and my cellphone and suitcase in the other. RIP wallet with my credit card, debit card, driver's license, and about $40 cash. Another problem that Uber and other ride sharing companies easily solve.
+The hotel was guarded, and only let the taxi through when they saw that I had a suitcase in the backseat. I was cautious when paying the driver, shining my cell phone light on the respective bills to make sure he gave me the right amount of change. One of the guards knocked on the window, wondering what was taking so long, so I rushed out of the car, grabbing my backpack and change in one hand, and my cellphone and suitcase in the other. RIP wallet with my credit card, debit card, driver's license, and about $40 cash. Here is yet another problem that Uber and other ride sharing companies easily solve.
